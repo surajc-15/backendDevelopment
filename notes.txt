@@ -1,0 +1,4 @@
+it is minimilistic framework
+it is not a fullstack framework
+it is a web framework
+"type": "module",   //it is not a common js module  we need to use import not require
